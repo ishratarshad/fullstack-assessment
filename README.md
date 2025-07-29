@@ -8,7 +8,7 @@ This project implements a professional member portfolio analytics dashboard usin
 ### Features Implemented
 - ** Data Visualization**: Interactive table displaying CSV member data
 - **Advanced Search**: Real-time search across all member fields
-- **🎛Dual Filtering System**: 
+- **Dual Filtering System**: 
   - Verification status filter (ID/Portfolio verification)
   - Subscription type filter (Premium/Standard)
 - **Statistics Dashboard**: Visual cards showing key metrics
@@ -31,7 +31,7 @@ This project implements a professional member portfolio analytics dashboard usin
 - **CSV Parsing**: csv-parser
 - **CORS**: cors middleware
 
-## 🏃‍♂️ Local Development
+##  Local Development
 
 ### Prerequisites
 - Node.js 18+ installed
