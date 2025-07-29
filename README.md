@@ -1,25 +1,22 @@
 # Full Stack Developer Interview Assessment
 
-## 🚀 Live Demo
-- **Frontend**: [Deployed on Netlify](https://your-app-name.netlify.app) *(Update after deployment)*
-- **Backend API**: [Deployed on Render](https://your-backend.onrender.com) *(Update after deployment)*
 
-## 📋 Project Overview
+## Project Overview
 
 This project implements a professional member portfolio analytics dashboard using the required full stack tech stack. The application fetches and visualizes member data from a CSV file, featuring advanced filtering, search functionality, and a modern UI that matches Find Me's design aesthetic.
 
-### ✨ Features Implemented
-- **📊 Data Visualization**: Interactive table displaying CSV member data
-- **🔍 Advanced Search**: Real-time search across all member fields
-- **🎛️ Dual Filtering System**: 
+### Features Implemented
+- ** Data Visualization**: Interactive table displaying CSV member data
+- **Advanced Search**: Real-time search across all member fields
+- **🎛Dual Filtering System**: 
   - Verification status filter (ID/Portfolio verification)
   - Subscription type filter (Premium/Standard)
-- **📈 Statistics Dashboard**: Visual cards showing key metrics
-- **🎨 Professional UI**: Clean design matching Find Me's blue theme
-- **📱 Responsive Design**: Works on all device sizes
-- **⚡ Real-time Updates**: Redux state management for smooth interactions
+- **Statistics Dashboard**: Visual cards showing key metrics
+- **Professional UI**: Clean design matching Find Me's blue theme
+- ** Responsive Design**: Works on all device sizes
+- ** Real-time Updates**: Redux state management for smooth interactions
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 ### Frontend
 - **Framework**: Next.js 15 (App Router)
@@ -56,7 +53,7 @@ npm run dev
 ```
 Frontend runs on `http://localhost:3000`
 
-## 🚀 Deployment
+## Deployment
 
 ### Quick Deploy
 1. **Frontend on Netlify**:
@@ -73,7 +70,7 @@ Frontend runs on `http://localhost:3000`
 
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed deployment instructions.
 
-## 📊 Data Structure
+##  Data Structure
 
 The application processes CSV data with the following fields:
 - **Member Name**: Full name of the member
@@ -85,7 +82,7 @@ The application processes CSV data with the following fields:
 - **Size (KB)**: Data size
 - **Subscription**: Premium/Standard subscription type
 
-## 🎯 Key Implementation Decisions
+## Key Implementation Decisions
 
 ### Architecture
 - **Separation of Concerns**: Clear frontend/backend separation
@@ -104,7 +101,7 @@ The application processes CSV data with the following fields:
 - **Professional Design**: Clean, modern interface
 - **Responsive Layout**: Mobile-first design approach
 
-## 📁 Project Structure
+##  Project Structure
 ```
 ├── backend/
 │   ├── index.js          # Express server
@@ -125,17 +122,17 @@ The application processes CSV data with the following fields:
 └── README.md             # This file
 ```
 
-## 🧪 Testing & QA
+## Testing & QA
 
 The application has been tested for:
-- ✅ Data loading and display
-- ✅ Search functionality across all fields
-- ✅ Filter combinations (verification + subscription)
-- ✅ Responsive design on multiple devices
-- ✅ Error handling and loading states
-- ✅ Cross-browser compatibility
+-  Data loading and display
+-  Search functionality across all fields
+-  Filter combinations (verification + subscription)
+- Responsive design on multiple devices
+-  Error handling and loading states
+-  Cross-browser compatibility
 
-## 🎨 Design Philosophy
+##  Design Philosophy
 
 The UI design follows Find Me's aesthetic with:
 - **Professional Blue Theme**: Clean, trustworthy appearance
@@ -144,28 +141,21 @@ The UI design follows Find Me's aesthetic with:
 - **Interactive Elements**: Smooth transitions and hover effects
 - **Data-driven Design**: Charts and statistics for insights
 
-## 📈 Performance Metrics
+## Performance Metrics
 
 - **First Load**: Optimized with static export
 - **Search Response**: Real-time, client-side filtering
 - **Bundle Size**: Optimized with tree-shaking
 - **Lighthouse Score**: 90+ across all metrics
 
-## 🤝 Assessment Compliance
+##  Assessment Compliance
 
-This project meets all assessment requirements:
-- ✅ Next.js (App Router) implementation
-- ✅ Tailwind CSS styling
-- ✅ Redux state management
-- ✅ Express.js backend
-- ✅ CSV data parsing and visualization
-- ✅ Professional documentation
-- ✅ Clean, functional code
-- ✅ Pixel-perfect design implementation
+- Next.js (App Router) implementation
+-  Tailwind CSS styling
+-  Redux state management
+- Express.js backend
+-  CSV data parsing and visualization
+-  Professional documentation
+- Clean, functional code
+-  Pixel-perfect design implementation
 
-## 📞 Contact
-
-For any questions about this implementation, please reach out to: contact@fyndme.net
-
----
-*Built with ❤️ for Find Me's Full Stack Developer Assessment*
