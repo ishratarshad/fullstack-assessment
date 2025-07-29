@@ -16,7 +16,7 @@ This project implements a professional member portfolio analytics dashboard usin
 - ** Responsive Design**: Works on all device sizes
 - ** Real-time Updates**: Redux state management for smooth interactions
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Frontend
 - **Framework**: Next.js 15 (App Router)
